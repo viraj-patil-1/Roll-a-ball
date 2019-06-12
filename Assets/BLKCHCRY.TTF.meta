@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 567233afcf891ba4599d1cfd5fac81d6
+timeCreated: 1486041402
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: BlackChancery
+  fontNames:
+  - BlackChancery
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
